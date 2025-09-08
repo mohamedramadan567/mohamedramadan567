@@ -51,6 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedramadan567&layout=compact&theme=react" height="150"/>
 </p>
 
+<p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+</p>
+
 ---
 
 ## 📬 Contact & Social
