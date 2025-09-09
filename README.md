@@ -62,7 +62,7 @@
 - **Email:** [mr3715708@gmail.com](mailto:mr3715708@gmail.com)  
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/mohamed-ramadan-732a82287/)  
 - **GitHub:** [mohamedramadan567](https://github.com/mohamedramadan567)  
-- **CV (Download):** [View my CV](https://drive.google.com/file/d/1T2wZFHDaU6GdAa3GNfYVB3K5etORvEsH/view?usp=drive_link)
+- **CV (Download):** [View my CV](https://drive.google.com/file/d/1u4mjP-a1vJgIczD0Z_ZC1QEYyWvCbpwS/view?usp=drive_link)
 
 ---
 
