@@ -74,7 +74,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedramadan567&show_icons=true&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedramadan567&show_icons=true&theme=react&custom_title=Mohamed%20Ramadan%27s%20GitHub%20Stats" height="160"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedramadan567&layout=compact&theme=react" height="160"/>
 </p>
 
